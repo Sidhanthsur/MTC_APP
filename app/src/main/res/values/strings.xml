@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MTC</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_option">About</string>
+    <string name="accounts_option">Accounts</string>
+    <!--CHange this URl later-->
+    <string name="help_option"><a href="http://www.geotagg.in/">Help</a></string>
+    <string name="notification_option">Notifications</string>
+    <string name="feedback_option">Feedback</string>
+    <string name="about_info">Creators:Geotagg\nVersion:1.0\n\nThe Team:\n\nAkhilesh Koppineni
+        \nKrishna Chaitanya\n\nDevelopment and Design\n\nTarun Chinmai \nSanjeev \nSidhanth \nRavi Prasad \nRamakrishanan \nSainath \nHari Krishnan \nNitin Simon \n Arvind RK \n Deepak RTP </string>
+    <string name="title_activity_aboutpage">aboutpage</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
